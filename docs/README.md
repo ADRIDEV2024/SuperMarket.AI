@@ -27,7 +27,7 @@ Supermarket.AI Assistant es un asistente conversacional basado en modelos de IA 
 
 ---
 
-## 📦 Estructura del proyecto
+## 🏗 Estructura del proyecto
 
 ```
 Chatbot/
