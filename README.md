@@ -7,7 +7,7 @@ Un chatbot inteligente bajo la potencia tecnológica de Openai con ChatGPT 4 y o
 
 ##  🤔 ¿Qué puede hacer Rita por mí?
 
-Supermarket.AI Assistant es un asistente conversacional basado en inteligencia artificial, especializado en productos de supermercado. Permite a los usuarios:
+Supermarket.AI Assistant es un asistente conversacional basado en modelos de IA generativa GPT, especializado en productos de supermercado. Permite a los usuarios:
 
 - Buscar productos por nombre, marca o categoría de comercios locales y grandes cadenas de supermercados.
 - Consultar precios y promociones en tiempo real.
