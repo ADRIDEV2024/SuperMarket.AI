@@ -107,6 +107,6 @@ Por favor, revisa la [guía de desarrollo](developer_guide.md) y CONTRIBUTION.md
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia GNU General Public.
+Este proyecto está bajo la licencia GPL 3.0.
 
 ---
