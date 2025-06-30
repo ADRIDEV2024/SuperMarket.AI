@@ -1,7 +1,7 @@
 # Supermarket.AI Assistant 🛒
 
 ¡Bienvenido a **Supermarket.AI Assistant**!  
-Un chatbot inteligente bajo la potencia tecnológica de Openai con ChatGPT 4 y o2 diseñado para ayudarte a encontrar productos, comparar precios y obtener recomendaciones en supermercados (por el momento solo aquellos que se ubican en España) de manera rápida y sencillam, gracias a Rita,tu asistente que te guiará y te dará todo el feedback que necesites para cada consulta que tengas,¡Créeme que será de gran ayuda para tus próximas cestas de la compra!
+Un chatbot inteligente bajo la potencia tecnológica de Openai con ChatGPT 4 y o2 diseñado para ayudarte a encontrar productos, comparar precios y obtener recomendaciones en supermercados (por el momento solo aquellos que se ubican en España) de manera rápida y sencilla, gracias a Rita,tu asistente que te guiará y te dará todo el feedback que necesites para cada consulta que tengas,¡Créeme que será de gran ayuda para tus próximas cestas de la compra!
 
 ---
 
