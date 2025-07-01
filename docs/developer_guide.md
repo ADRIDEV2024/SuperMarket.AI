@@ -68,3 +68,23 @@ Chatbot/
 3. **Configura las variables de entorno:**
    - Renombra `.env.example` a `.env`.
    - Añade tu clave de OpenAI y otros parámetros necesarios.
+
+4. **Configura la aplicación:**
+   - Edita [`config/app_config.yaml`](../config/config/app_config.yaml) para ajustar parámetros como idioma, tema, bases de datos, modelo de IA, etc.
+   - Ejemplo de parámetros personalizables:
+     ```yaml
+     gui:
+       theme: dark
+       language: es
+       enable_notifications: true
+     openai:
+       model: gpt-4
+       temperature: 0.7
+     ```
+
+5. **Inicia la aplicación:**
+   ```sh
+   streamlit run src/gui/main_app.py
+   ```
+
+---
