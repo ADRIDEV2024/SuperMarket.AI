@@ -1,0 +1,11 @@
+app:
+  name: Supermarket.AI Assistant
+  description: A chatbot assistant for supermarkets to help customers find products, compare prices, and get recommendations.
+  version: 1.0.0
+  debug: true
+  log_level: INFO
+
+server:
+  host: ${SERVER_HOST}
+  port: 8000
+  timeout: 30
