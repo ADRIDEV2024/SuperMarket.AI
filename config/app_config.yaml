@@ -9,3 +9,19 @@ server:
   host: ${SERVER_HOST}
   port: 8000
   timeout: 30
+
+database:
+  products_db_path: ../data/products_database.db
+  markets_db_path: ../data/markets_database.db
+
+openai:
+  api_key: ${OPENAI_API_KEY}
+  model: gpt-4
+  temperature: 0.7
+  max_tokens: 1000
+
+gui:
+  theme: light
+  language: es
+  enable_notifications: true
+  max_concurrent_requests: 5
