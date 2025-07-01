@@ -88,3 +88,28 @@ Chatbot/
    ```
 
 ---
+
+## Personalización del chatbot
+
+### Cambiar el modelo de IA
+
+En [`app_config.yaml`](../config/config/app_config.yaml), puedes modificar el modelo de OpenAI y sus parámetros:
+
+```yaml
+openai:
+  model: gpt-4
+  temperature: 0.7
+  max_tokens: 1000
+```
+
+### Añadir nuevos supermercados o productos
+
+- Actualiza las bases de datos en `data/products_database.db` y `data/markets_database.db`.
+- Puedes crear scripts en `src/data_proc/` para importar, limpiar o transformar datos.
+
+### Modificar la interfaz gráfica
+
+- Edita los archivos en `src/gui/` para cambiar el diseño, los textos o añadir nuevas vistas.
+- Puedes personalizar el tema, idioma y notificaciones desde la configuración.
+
+---
