@@ -51,3 +51,20 @@ Chatbot/
 ```
 
 ---
+
+## Configuración inicial
+
+1. **Clona el repositorio:**
+   ```sh
+   git clone https://github.com/ADRIDEV2024/SuperMarket.AI.git
+   cd Chatbot
+   ```
+
+2. **Instala las dependencias:**
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+3. **Configura las variables de entorno:**
+   - Renombra `.env.example` a `.env`.
+   - Añade tu clave de OpenAI y otros parámetros necesarios.
