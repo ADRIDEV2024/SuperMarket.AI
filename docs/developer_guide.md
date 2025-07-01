@@ -21,3 +21,33 @@ Esta guía está orientada a desarrolladores que deseen entender, personalizar y
 Supermarket.AI Assistant es un chatbot modular y extensible, pensado para ayudar a los usuarios a encontrar productos, comparar precios y recibir recomendaciones en supermercados. Está construido en Python, utiliza [Streamlit](https://streamlit.io/) para la interfaz y la API de OpenAI para la IA conversacional.
 
 ---
+
+## Requisitos previos
+
+- **Python 3.8+**
+- Acceso a una clave de API de OpenAI
+- Conocimientos básicos de Python y manejo de entornos virtuales
+
+---
+
+## Estructura del proyecto
+
+```
+Chatbot/
+│
+├── config/           # Configuración de la app y modelos
+├── data/             # Bases de datos y datos de productos
+├── docs/             # Documentación y guías
+├── src/              # Código fuente principal
+│   ├── api/          # Integración con APIs externas (OpenAI, etc.)
+│   ├── data_proc/    # Procesamiento y gestión de datos
+│   ├── gui/          # Interfaz gráfica (Streamlit)
+│   ├── main/         # Lógica principal del chatbot
+│   └── utils/        # Utilidades y helpers
+├── tests/            # Pruebas unitarias y de integración
+├── requirements.txt  # Dependencias del proyecto
+├── setup.py          # Instalador del paquete
+└── run.py            # Script de ejecución principal
+```
+
+---
